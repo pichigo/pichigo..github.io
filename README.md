@@ -1,1 +1,1 @@
-# pichigo..github.io
+# pichigo.github.io
